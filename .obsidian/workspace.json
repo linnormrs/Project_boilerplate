@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "9bd5ce76ebd531a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f7bba4dc8a0ce21",
+        "type": "tabs",
+        "dimension": 35.427135678391956,
+        "children": [
+          {
+            "id": "8ff9e03210ef2c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Entity/main.entity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d99a6774fda94a8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/main.web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "7c415e422ad119e2",
+        "type": "tabs",
+        "dimension": 64.57286432160804,
+        "children": [
+          {
+            "id": "2f370d8fe92e3213",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bdb9b61d06adfa5b",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a8b6af099ce8b05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "559fdc7a57c26473",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9ad6d3eb832bdfa9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4a4072d78c86432",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70da72ab8018b6f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "acc58a5e28a48788",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6eace7c612152f86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d2cc9c2ec12e3cdc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28fc96ff20d61b60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "50b38fe1f5e3d73e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "2f370d8fe92e3213",
+  "lastOpenFiles": [
+    "Web/main.web.md",
+    "Entity/main.entity.md",
+    "Entity/domain1/entity1.md",
+    "Web/page1.web/page1_1_1.web.md",
+    "Entity/domain1",
+    "Web/page1.web/page1_1.web.md",
+    "Web/page1.web/page1.web.md",
+    "Customer supply.md",
+    "Web/page1.web",
+    "Entity",
+    "Web",
+    "Emoji/google-spreadsheet.png",
+    "Emoji/figma.png",
+    "FunctionList/고객관리/문자관리.md",
+    "FunctionList/카다로그/카다로그.md",
+    "FunctionList/매출관리/주문관리.md",
+    "FunctionList/매출관리/오프라인 판매.md",
+    "FunctionList/Main.index.md",
+    "FunctionList/사이드바/내정보.md",
+    "FunctionList/로그인/회원가입.md",
+    "FunctionList/로그인/로그인.md",
+    "FunctionList/고객관리/일정관리.md",
+    "FunctionList/고객관리/정보관리.md",
+    "FunctionList/매출관리/잔금현황.md",
+    "FunctionList/매출관리",
+    "FunctionList/재고관리",
+    "FunctionList/고객관리",
+    "FunctionList/커뮤니티",
+    "FunctionList/카다로그",
+    "FunctionList/재고관리/전체 재고.md",
+    "FunctionList/매출관리/수리재고.md",
+    "FunctionList/매출관리/반납재고.md",
+    "FunctionList/재고관리/삭제 재고.md",
+    "FunctionList/커뮤니티/커뮤니티.md",
+    "FunctionList/재고관리/금&현금.md",
+    "FunctionList/홈피드/홈피드.md",
+    "FunctionList/홈피드"
+  ]
+}
